@@ -1,0 +1,5 @@
+1 1 slobodno
+2 1 Jana
+3 0 marija
+4 1 luka
+5 0 slobodno
